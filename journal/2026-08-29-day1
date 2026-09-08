@@ -1,10 +1,19 @@
 # Journal - Aug 29 - Week 6
 
+## Today in one sentence
+- Learned the basics of Git and GitHub and started figuring out how commits, pushes, merges, and pulls fit together.
 ## What I learned
-- Git and Github
+- Learned the basics of Git and GitHub and how they're used together for version control in a real project.
+- Got introduced to the general workflow of saving changes and sharing them with others through GitHub.
+
+## Terms I am still learning
+- commit - saving a snapshot of your changes in Git with a short note describing what changed
+- push - sending your committed changes from your computer up to GitHub
+- pull - bringing changes from GitHub down to your computer
+- merge - combining changes from two different branches into one
 
 ## What confused me
-- How commit, push, merge, pull works
+- How commit, push, merge, and pull work together
 
 ## One small next step
 - [ ] Practice and find out more about Github
