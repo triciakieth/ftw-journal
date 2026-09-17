@@ -1,1 +1,20 @@
+# Journal - Sept 12 - APIs Webscraping 
 
+
+## Today in one sentence
+- I learned that you can scrape data from everywhere in the internet.
+
+## What I learned
+- Web scraping is fragile,   
+- Before collecting data, ask first: Are we allowed to and should we collect it?
+- Calling public API like open-meteo
+
+## Terms I am still learning
+- Parquet
+- API 
+
+## What confused me
+- Using python, ingesting API and turning it into a table.
+
+## One small next step
+- Practice and investigate more about APIs and web scraping.
